@@ -454,6 +454,7 @@ button:focus {
    Hero Area
    ========================================================================== */
 .hero-area {
+  /* background: #f9f9f9; */
   position: relative; }
   .hero-area .overlay {
     position: absolute;
@@ -519,10 +520,10 @@ button:focus {
         background: #fff;
         color: #ffc300; }
   .hero-area .intro-img {
-    padding: 180px 0 0px; }
+    padding: 300px 150px 500px; }
     .hero-area .intro-img img {
       display: block;
-      height: auto;
+      height: 200px;
       max-width: 100%; }
 
 /* ==========================================================================

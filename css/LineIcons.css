@@ -420,8 +420,8 @@
 .lni-revenue:before {
   content: "\e976";
 }
-.lni-invention:before {
-  content: "\e977";
+.lni-secure:before {
+  content: "\e940";
 }
 .lni-network:before {
   content: "\e978";
@@ -864,8 +864,8 @@
 .lni-hammer:before {
   content: "\eac7";
 }
-.lni-helmet:before {
-  content: "\ea06";
+.lni-secure:before {
+  content: "\e940";
 }
 .lni-trowel:before {
   content: "\ea07";
